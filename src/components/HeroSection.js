@@ -182,11 +182,7 @@ export default function HeroSection() {
                   </a>
                 </li>
 
-                <li>
-                  <a href="https://www.instagram.com/" target="_blank" rel="noreferrer">
-                    IG
-                  </a>
-                </li>
+               
                 <li>
                   <a
                     href="https://www.linkedin.com/in/adarsh-chaudhary-16062320b/"
