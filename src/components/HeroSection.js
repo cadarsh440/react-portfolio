@@ -181,7 +181,15 @@ export default function HeroSection() {
                     GH
                   </a>
                 </li>
-
+                 <li>
+                  <a
+                    href="https://www.instagram.com/"
+                    target="_blank"
+                    rel="noreferrer"
+                  >
+                    IG
+                  </a>
+                </li>
                
                 <li>
                   <a
